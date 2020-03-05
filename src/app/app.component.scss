@@ -1,0 +1,15 @@
+.btn-group {
+    margin: 0;
+    text-align: center;
+
+    button {
+        display: inline-block;
+        margin: 0 5px;
+        width:25%;
+        background-color: #8570d0; /* Purple background */
+        border: 1px solid #6754ab; /* Purple border */
+        color: white; /* White text */
+        padding: 10px 24px; /* Some padding */
+        cursor: pointer; /* Pointer/hand icon */
+      }  
+}
